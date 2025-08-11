@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[82983],{849607:(e,r,t)=>{t.r(r),t.d(r,{PaymentPlanContainer:()=>l});var n=t(406029),s=t(907422);let l=e=>{let{children:r,padding:t="30px 0 0 0",margin:l="0",border:a}=e;return(0,n.jsx)(s.A,{sx:{padding:t,margin:l,...a?{border:a}:{borderBottom:e=>{let{tokens:{color:r}}=e;return`1px solid ${r.gray["onyx-12"]}`}}},children:r})}}}]);
+//# sourceMappingURL=PaymentPlanContainer.02d93602cbee4504.js.map
